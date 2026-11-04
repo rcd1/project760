@@ -1,2 +1,2 @@
 # project760
-MY project is going to showcase my understanding of the Secure Development Lifecycle using the concepts found within a Library Management System.
+The hope is to mimic a Library Management System at a small enough scale to see how we are meant to secure every stage of development.
